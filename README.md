@@ -1,0 +1,1 @@
+<img src="mapa-fortnite.jpg" id="mapa">
