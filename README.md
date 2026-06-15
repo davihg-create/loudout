@@ -1,1 +1,1 @@
-<img src="mapa-fortnite.jpg" id="mapa">
+<img src="mapa.jpg" width="900">
